@@ -1808,6 +1808,11 @@ accessible-autocomplete@^2.0.4:
   dependencies:
     preact "^8.3.1"
 
+accessible-autocomplete@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/accessible-autocomplete/-/accessible-autocomplete-3.0.1.tgz#8ddf4934d0b4ba6acb28de486dd505e062cdc86e"
+  integrity sha512-xMshgc2LT5addvvfCTGzIkRrvhbOFeylFSnSMfS/PdjvvvElZkakCwxO3/yJYBWyi1hi3tZloqOJQ5kqqJtH4g==
+
 acorn-globals@^6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/acorn-globals/-/acorn-globals-6.0.0.tgz#46cdd39f0f8ff08a876619b55f5ac8a6dc770b45"
@@ -3346,10 +3351,11 @@ detect-newline@^3.0.0:
   integrity sha512-TLz+x/vEXm/Y7P7wn1EJFNLxYpUD4TgMosxY6fAVJUnJMbupHBOncxyWUG9OpTaH9EBD7uFI5LfEgmMOc54DsA==
 
 "dfe-autocomplete@github:DFE-Digital/dfe-autocomplete":
-  version "0.0.1"
-  resolved "https://codeload.github.com/DFE-Digital/dfe-autocomplete/tar.gz/36d80e6b5bba67c92cd9ec6982a4e536d1889aed"
+  version "0.2.1"
+  uid "966efa70f058585fdbc91e7217d678092db62303"
+  resolved "https://codeload.github.com/DFE-Digital/dfe-autocomplete/tar.gz/966efa70f058585fdbc91e7217d678092db62303"
   dependencies:
-    accessible-autocomplete "^2.0.4"
+    accessible-autocomplete "^3.0.1"
 
 diff-sequences@^29.6.3:
   version "29.6.3"
