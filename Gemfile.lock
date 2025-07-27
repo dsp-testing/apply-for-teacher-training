@@ -696,7 +696,7 @@ GEM
       activesupport (>= 3)
       attr_required (>= 0.0.5)
       httpclient (>= 2.4)
-    thor (1.2.2)
+    thor (1.4.0)
     timecop (0.9.8)
     timeliness (0.4.5)
     timeout (0.4.0)
